@@ -3,7 +3,8 @@ import Header from './Header/Header'
 import CPUReadyQueue from './ReadyQueue/CPUReadyQueue'
 import Gantt from './Gantt Chart/Gantt'
 import JobPool from './Job Pool/JobPool'
-import { MyContextProvider } from '../../context/myContext'
+import { MyContextProvider } from '../../context/Mycontext'
+
 
 
 const MainContainer = () => {

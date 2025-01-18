@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { MyContext } from '../../../context/myContext';
+import { MyContext } from '../../../context/Mycontext';
 import SingleColumn from './SingleColumn';
 import SingleRow from './SingleRow';
 

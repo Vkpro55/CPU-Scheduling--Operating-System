@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import SelectHeader from './SelectHeader';
-import { MyContext } from '../../../context/myContext';
+import { MyContext } from '../../../context/Mycontext';
 
 
 const CPUoptions = () => {

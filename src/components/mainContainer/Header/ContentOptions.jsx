@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import { faRedo, faFastBackward, faPlay, faPause, faStepForward, faFastForward } from '@fortawesome/free-solid-svg-icons';
 import Button from './Button'
-import { MyContext } from '../../../context/myContext';
+import { MyContext } from '../../../context/Mycontext';
 
 
 const ContentOptions = () => {
