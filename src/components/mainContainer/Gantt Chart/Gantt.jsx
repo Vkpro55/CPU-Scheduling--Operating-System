@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { MyContext } from '../../../context api/myContext';
+import { MyContext } from '../../../context/myContext';
 
 const Gantt = () => {
 
