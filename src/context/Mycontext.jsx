@@ -1,7 +1,7 @@
 
 import { createContext, useState, useEffect } from "react";
 import { FirstComeFirstServe, ShortestJobFirst, RoundRobin, Priority, PreemptivePriority, STRF } from "../classes/algorithm";
-import Job from "../classes/Job";
+import Job from "../classes/job";
 import Simulation from "../classes/simulation";
 
 
