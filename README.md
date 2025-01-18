@@ -43,3 +43,7 @@ A web application designed to study and visualize various CPU scheduling algorit
 For any inquiries, suggestions, or feedback:
 - Email: vinodrao835@gmail.com
 - GitHub: Vinod Kumar
+
+
+
+Thank you for exploring this project! If you find it useful, please consider giving it a 💖 by starring the repository.
