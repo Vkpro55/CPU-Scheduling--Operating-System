@@ -15,3 +15,9 @@ A web application designed to study and visualize various CPU scheduling algorit
 - Interactive Simulations: Visualize how processes are scheduled for each algorithm.
 - Custom Inputs: Users can input their own processes, priorities, burst times, and arrival times to see real-time scheduling outcomes.
 - Step-by-Step Execution: Breakdown of the scheduling process with Gantt charts and time analysis.
+
+### Technologies Used
+-Frontend: React.js
+-Styling: Pure CSS
+-Programming Language: JavaScript
+-Design Principles: OOP, SOLID principles
