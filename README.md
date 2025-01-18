@@ -21,3 +21,25 @@ A web application designed to study and visualize various CPU scheduling algorit
 - Styling: Pure CSS
 - Programming Language: JavaScript
 - Design Principles: OOP, SOLID principles
+
+### How to Run Locally
+1. Clone the Repository:
+   ```bash
+   git clone https://github.com/Vkpro55/CPU-Scheduling--Operating-System.git
+   ```
+2. Navigate to the Project Directory:
+   ```bash
+   cd CPU-Scheduling--Operating-System
+   ```
+3. Install Dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the Development Server:
+   ```bash
+   npm run dev || npm run serve
+   ```
+### Contact
+For any inquiries, suggestions, or feedback:
+- Email: vinodrao835@gmail.com
+- GitHub: Vinod Kumar
